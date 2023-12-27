@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "cStandard": "c17",
+      "compilerPath": "/usr/bin/clang",
+      "includePath": [
+        "${{workspaceFolder}}/**"
+      ],
+      "intelliSenseMode": "macos-clang-x64",
+      "name": "Mac"
+    }
+  ],
+  "version": 4
+}
